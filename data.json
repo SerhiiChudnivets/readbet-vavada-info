@@ -3,7 +3,7 @@
   "site_name": null,
   "html_head": null,
   "url": "readbet-vavada.info",
-  "template": "tupchiy",
+  "template": "luxury-casino",
   "language_code": "en",
   "allow_indexing": true,
   "redirect_404s_to_homepage": true,
@@ -47,6 +47,8 @@
   },
   "header_menu": [],
   "footer_menu": [],
-  "_generated_at": "2026-01-23T11:13:56.402Z",
-  "_version": "1.0.0"
+  "_generated_at": "2026-01-28T01:33:30.507Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-01-28T01:33:31.005Z",
+  "_deploy_trigger": "j4ap9a"
 }
